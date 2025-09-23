@@ -24,4 +24,4 @@ Pump.fun is a launchpad for meme tokens on Solana. **PUMP** is its native token.
 * **Pessimistic:** declining interest/regulation → heavy correction.
 * 23456789123
 
-
+1
